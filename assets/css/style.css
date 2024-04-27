@@ -19,11 +19,11 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
-header h1 .seo {
+/* removed redundant header h1 before .seo */
+.seo {
     color: #d9dcd6;
 }
-
+/* replaced div element selector with nav */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -120,7 +120,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* replaced class selector footer with semantic element and element selector footer */
 footer {
     padding: 30px;
     clear: both;

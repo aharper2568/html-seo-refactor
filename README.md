@@ -6,7 +6,7 @@ This is a refactor of the Horiseon marketing webpage. Going through the changes 
 
 ## URL
 [Live URL](https://aharper2568.github.io/html-seo-refactor/)\
-[GitHub Repo](https://github.com/aharper2568/html-seo-refactor?tab=readme-ov-file)
+[GitHub Repo](https://github.com/aharper2568/html-seo-refactor/)
 
 ## User Story
 ```

@@ -27,10 +27,10 @@ THEN I modify and condense the code to match the HTML
 ```
 ## Webpage appearance
 
-![Horiseon SEO webpage exploring the benefits of their work such as Search Engine Optimization, Online Meputation Management, and Mocial Media Marketing](./assets/images/02-Challenge-Screen.png)
+![Horiseon SEO webpage exploring the benefits of their work such as Search Engine Optimization, Online Meputation Management, and Mocial Media Marketing](./assets/images/screenshot.png)
 
 ## Author
 
-**Anthony Harper**
-I didn't make the website. I did refactor it.
+**Anthony Harper** \
+I didn't make the website. I did refactor it. \
 I also made this readme.

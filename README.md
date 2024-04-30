@@ -25,6 +25,8 @@ WHEN I identify accessibility standard flaws
 THEN I restore said flaws by adding identifying attributes
 WHEN I identify redundancies in the CSS files
 THEN I modify and condense the code to match the HTML
+WHEN I identify bloated asset files
+THEN I improve loadtime by reducing image sizes
 ```
 ## Webpage appearance
 
